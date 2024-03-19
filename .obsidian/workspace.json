@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "3902686c8005107a",
+    "type": "split",
+    "children": [
+      {
+        "id": "80fa7bf7ea31aee4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65e682a00cc08744",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Draft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3f3ab270ae37c626",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "892cd2a0dde85f84",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDFs/mccloskey2018 - Understanding the development and management of antisocial disorders in adolescents.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf87c7952b9cbc00",
+    "type": "split",
+    "children": [
+      {
+        "id": "2adf1d4980173155",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed06019047c1ed1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "97fe3057ff68c227",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cd7895d39a130899",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 355.5004348754883
+  },
+  "right": {
+    "id": "d3ec41fc3888f40f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d45cdace8b64f4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8c8c23572841e9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Draft.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19645d813cafeb8c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Draft.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8426fcebb86c479",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1d2a37e575d1d2da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Draft.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "65e682a00cc08744",
+  "lastOpenFiles": [
+    "PDFs/mccloskey2018 - Understanding the development and management of antisocial disorders in adolescents.pdf",
+    "Draft.md",
+    "PDFs/george2022 - Depression, anxiety, and intermittent explosive disorder among Black Caribbean and African American adolescents.pdf",
+    "PDFs/pereira2021 - Prevalence and psychiatric comorbidities of intermittent explosive disorders in Metropolitan São Paulo, Brazil.pdf",
+    "PDFs/puhalla2020 - History of childhood abuse and alcohol use disorder Relationship with intermittent explosive disorder and intoxicated aggression frequency.pdf",
+    "PDFs/gelegen2018 - Psychiatric comorbidity in intermittent explosive disorder.pdf",
+    "PDFs/modestino2022 - Theorizing the Role of Dopaminergic Polymorphic Risk Alleles with Intermittent Explosive Disorder (IED).pdf",
+    "PDFs/fisher2017 - Use of structural family therapy with an individual client diagnosed with intermittent explosive disorder A case study.pdf",
+    "PDFs/scott2020 - Intermittent explosive disorder subtypes in the general population.pdf",
+    "PDFs/scott2018 - Intermittent explosive disorder.pdf",
+    "PDFs/zlotnick1999 - Clinical correlates of self-mutilation in a sample of general psychiatric patients.pdf"
+  ]
+}
